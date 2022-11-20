@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "description": "A mouse gaming",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "description": "A keyboard gaming",
+      "price": 200,
+      "inStock": false
+    },
+    {
+      "name": "server",
+      "description": "web server ",
+      "price": "4000",
+      "inStock": false,
+      "id": 4
+    },
+    {
+      "name": "keyboard gaming razer",
+      "description": "razer keyboard gaming",
+      "price": "1500",
+      "inStock": false,
+      "id": 6
+    }
+  ]
+}
